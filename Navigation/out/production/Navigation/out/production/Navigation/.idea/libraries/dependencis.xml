@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dependencis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencis/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependencis/druid-1.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
